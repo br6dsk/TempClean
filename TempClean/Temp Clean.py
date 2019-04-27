@@ -1,9 +1,8 @@
 #Author: Braian D. Jesus
 #Este programa exclui pra você todos os arquivos temporários do seu Windows!
-#Se quiser usar esse programa, modifique os arquivos de Lote (.bat) com os seus próprios diretórios.
+#Caso o programa não funcione corretamente, modifique os arquivos de Lote (.bat) com os seus próprios diretórios.
 #Usando windows+r, digita o %temp% da enter e copia o caminho da barra de endereços e mude no arquivo file_tt.bat.
-#Criado apenas para testes no meu computador, não me garanto que funcione em todos os sistemas windows.
-#Faça o teste por mim :)
+#Criado para uso próprio, porém grátis para qualquer tipo de teste!
 #Obrigado xD
 
 
