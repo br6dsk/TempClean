@@ -1,3 +1,3 @@
 @echo off
-rd /q /s C:\Users\Brian\AppData\Local\Temp\
+rd /q /s C:\Users\%username%\AppData\Local\Temp\
 exit
