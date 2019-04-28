@@ -5,7 +5,6 @@
 #Criado para uso próprio, porém grátis para qualquer tipo de teste!
 #Obrigado xD
 
-
 import os
 from time import sleep
 print("""
@@ -35,7 +34,6 @@ while(pergunta.isdigit()!=True):
 	pergunta=input(" \nDigite novamente um numero da lista: ")
 pergunta=int(pergunta)
 
-
 if pergunta == 1:
 	sleep(0.3)
 	print(" \n\t\t\tApagando...")
@@ -50,7 +48,6 @@ elif pergunta ==2:
 	sleep(0.3)
 	print(" \n\t\t\tPrefetch apagado!")
 	print(" \n\t\t\tObrigado por usar! by Braian D. Jesus.")
-
 elif pergunta ==3:
 	sleep(0.3)
 	print(" \n\t\t\tApagando...")
@@ -82,12 +79,3 @@ elif pergunta==0:
 else:
 	print("\n\t\t\tNumero inválido")
 	print("\t\t\tFechando...")
-
-
-
-
-
-
-
-
-
